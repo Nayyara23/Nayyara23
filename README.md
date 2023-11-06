@@ -9,7 +9,7 @@
 
 ### Um pouco sobre mim 🙋🏿‍♀️
 - 👩🏿‍🎓 Sou estudante na IFSULMinas na área de Desenvolvimento de sistemas.
-- 🎧 Apaixonada por músicas e livros de romance e terror.
+- 🎧 Apaixonada por música e livros de romance e terror.
 - 💼Atualmente trabalho na área de atendimento ao público na [RD](https://rd.com.br/)
 - 👩🏾‍💻Minha meta de vida e ser uma desenvolvedora Fullstack
 
